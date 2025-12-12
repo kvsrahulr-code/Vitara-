@@ -1,0 +1,9 @@
+{
+  "name": "Vitara AI Medication Manager",
+  "description": "Vitara is a premium, AI-powered medication management platform that helps you track prescriptions, understand drug interactions, and never miss a dose. Using Gemini 2.5, it can scan medication labels and provide personalized health insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
